@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Tech4Tchad"
+echo "Tech4Tchad School"
